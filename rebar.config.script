@@ -28,7 +28,7 @@ DepDescs = [
 %% keep these sorted
 {b64url,           "apache/couchdb-b64url",           "6895652d80f95cdf04efb14625abed868998f174"},
 {couch_log,        "apache/couchdb-couch-log",        "ad803f66dbd1900b67543259142875a6d03503ce"},
-{chttpd,           "murgeye/couchdb-chttpd",           "d78984994711700a83ad89ade3f995e0596cc55b"},
+{chttpd,           "murgeye/couchdb-chttpd",           "cb0f20ea0898cd24ff8ac0617b326874088d9157"},
 {couch,            "apache/couchdb-couch",            "1659fda5dd1808f55946a637fc26c73913b57e96"},
 {couch_index,      "apache/couchdb-couch-index",      "f0a6854e578469612937a766632fdcdc52ee9c65"},
 {couch_mrview,     "apache/couchdb-couch-mrview",     "5899436ae7b8d7198bfcbef48475d8c6dd4d9dd9"},
@@ -37,7 +37,7 @@ DepDescs = [
 {couch_event,      "apache/couchdb-couch-event",      "7e382132219d708239306aa3591740694943d367"},
 {couch_stats,      "apache/couchdb-couch-stats",      "7895d4d3f509ed24f09b6d1a0bd0e06af34551dc"},
 {couch_peruser,    "apache/couchdb-peruser",          "4eea9571171a5b41d832da32204a1122a01f4b0e"},
-{couch_tests,       "apache/couchdb-erlang-tests",    "37b3bfeb4b1a48a592456e67991362e155ed81e0"},
+{couch_tests,      "apache/couchdb-erlang-tests",    "37b3bfeb4b1a48a592456e67991362e155ed81e0"},
 {docs,             "apache/couchdb-documentation",    "52a2879faac8cdb315a21c4f3a153a934b9bfebb", [raw]},
 {ddoc_cache,       "apache/couchdb-ddoc-cache",       "c762e90a33ce3cda19ef142dd1120f1087ecd876"},
 {ets_lru,          "apache/couchdb-ets-lru",          "c05488c8b1d7ec1c3554a828e0c9bf2888932ed6"},
